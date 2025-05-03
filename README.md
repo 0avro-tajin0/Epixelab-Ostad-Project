@@ -1,4 +1,4 @@
-# Creative Portfolio Landing Page
+# Creative Agency Website landing
 
 A modern and responsive landing page built with **HTML**, **CSS**, and **Bootstrap**. This project is ideal for showcasing personal portfolios, agencies, or creative service websites.
 
@@ -30,8 +30,6 @@ A modern and responsive landing page built with **HTML**, **CSS**, and **Bootstr
 │   └── style.css
 ├── images/
 │   └── [all image assets]
-├── js/
-│   └── script.js (if needed)
 └── README.md
 
 📷 Screenshots

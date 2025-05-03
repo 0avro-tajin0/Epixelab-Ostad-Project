@@ -36,7 +36,7 @@ A modern and responsive landing page built with **HTML**, **CSS**, and **Bootstr
 
 📷 Screenshots
 
-![localhost_8080_index html](https://github.com/user-attachments/assets/f643b0a4-3282-4989-90e3-0a9f08b32be7)
+![localhost_8080_index html](https://github.com/user-attachments/assets/519ccfe1-f676-46a1-8b45-b66a865649a3)
 
 
 📌 How to Use
@@ -44,3 +44,4 @@ Clone the repository:
 git clone https://github.com/your-username/portfolio-landing-page.git
 
 Open index.html in your browser or host on a server.
+
